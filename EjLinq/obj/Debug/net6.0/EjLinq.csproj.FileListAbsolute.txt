@@ -1,0 +1,15 @@
+C:\Users\Dam\source\repos\EjLinq\EjLinq\bin\Debug\net6.0\EjLinq.exe
+C:\Users\Dam\source\repos\EjLinq\EjLinq\bin\Debug\net6.0\EjLinq.deps.json
+C:\Users\Dam\source\repos\EjLinq\EjLinq\bin\Debug\net6.0\EjLinq.runtimeconfig.json
+C:\Users\Dam\source\repos\EjLinq\EjLinq\bin\Debug\net6.0\EjLinq.dll
+C:\Users\Dam\source\repos\EjLinq\EjLinq\bin\Debug\net6.0\EjLinq.pdb
+C:\Users\Dam\source\repos\EjLinq\EjLinq\obj\Debug\net6.0\EjLinq.csproj.AssemblyReference.cache
+C:\Users\Dam\source\repos\EjLinq\EjLinq\obj\Debug\net6.0\EjLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dam\source\repos\EjLinq\EjLinq\obj\Debug\net6.0\EjLinq.AssemblyInfoInputs.cache
+C:\Users\Dam\source\repos\EjLinq\EjLinq\obj\Debug\net6.0\EjLinq.AssemblyInfo.cs
+C:\Users\Dam\source\repos\EjLinq\EjLinq\obj\Debug\net6.0\EjLinq.csproj.CoreCompileInputs.cache
+C:\Users\Dam\source\repos\EjLinq\EjLinq\obj\Debug\net6.0\EjLinq.dll
+C:\Users\Dam\source\repos\EjLinq\EjLinq\obj\Debug\net6.0\refint\EjLinq.dll
+C:\Users\Dam\source\repos\EjLinq\EjLinq\obj\Debug\net6.0\EjLinq.pdb
+C:\Users\Dam\source\repos\EjLinq\EjLinq\obj\Debug\net6.0\EjLinq.genruntimeconfig.cache
+C:\Users\Dam\source\repos\EjLinq\EjLinq\obj\Debug\net6.0\ref\EjLinq.dll
